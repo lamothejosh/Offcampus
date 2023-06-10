@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+h2 {
+    text-align: center;
+    color: pink;
+}
+ol{
+    text-align: center;
+    background-color: rgb(195, 82, 82);
+    color: pink;
+    font-size: x-large;
+}
+body {
+    background: url("lawn.jpg"); 
+    background-size:6%;
+}
+li {
+    display: block;
+    padding: 8px;
+}
+ul {
+    background-color: pink;
+    color:black;
+    overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    font-size: x-large;
+    position: static;
+    overflow: auto;
+}
+footer p {
+    text-align: center;
+    font-size: large;
+    color: whitesmoke;
+}
+footer {
+    position: bottom;
+    display: block;
+    background-color: lightblue;
+    top: 0%;
+}
+
+div {
+    text-align: center;
+}
